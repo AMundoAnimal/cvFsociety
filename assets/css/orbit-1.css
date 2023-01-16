@@ -6,6 +6,22 @@
  * Twitter: @3rdwave_themes
  * Website: http://themes.3rdwavemedia.com/
 */
+.chip {
+  display: inline-block;
+  padding: 0 25px;
+  padding-right: 20px;
+  height: 20px;
+  font-size: 14px;
+  margin-right: 5px;
+  margin-inline-start: auto;
+  line-height: 20px;
+  border-radius: 50px;
+  background-color: #f1f1f1;
+}
+
+
+
+
 body {
   font-family: "Roboto", sans-serif;
   color: #545E6C;
@@ -389,16 +405,3 @@ p {
 }
 
 
-.chip {
-  display: inline-block;
-  padding: 0 25px;
-  padding-right: 20px;
-  height: 20px;
-  font-size: 14px;
-  margin-right: 5px;
-  margin-inline-start: auto;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  line-height: 20px;
-  border-radius: 50px;
-  background-color: #f1f1f1;
-}
